@@ -1,4 +1,4 @@
-# mDNS to Sockets
+# mDNS to Sockets (Server)
 
 This is a simple example of how to use mDNS to:
 * advertise a service, or
